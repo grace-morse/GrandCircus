@@ -1,3 +1,3 @@
-# Master
-Grand Circus Work
-Develop(her) student    Grace 
+#GrandCircus
+DEVELOP(her) Bootcamp Student
+Grace Morse
